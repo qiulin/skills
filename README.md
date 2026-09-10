@@ -25,6 +25,7 @@ Personal Agent Skills
 | [align-understanding](skills/align-understanding/) | 对齐理解 | 术语表+边界探测+实例走查+假设两栏标注，固化理解基线防偏差 |
 | [subagent-sequential-implement](skills/subagent-sequential-implement/) | 依次派子代理实现 | 方案切有序阶段逐个派子代理，阶段验收门+还原点，失败只重做一段 |
 | [design-doc](skills/design-doc/) | 方案落文档 | docs/design 目录规范 + 日期前缀命名 + 状态元数据 + 索引表，方案持久化留档 |
+| [mechanism-gap](skills/mechanism-gap/) | 机制缺口排查 | 回溯问题逃逸路径，判定个案还是一类，从最早可拦截层补齐机制而非打补丁 |
 
 ## 安装
 
