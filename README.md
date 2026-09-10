@@ -15,6 +15,7 @@ Personal Agent Skills
 | [critical-thinking](critical-thinking/) | 批判性思维 | 先质疑前提 → 再注明依据地推理 → 后分档交付结论 |
 | [high-cohesion-low-coupling](high-cohesion-low-coupling/) | 高内聚低耦合 | 按"一起变化的放一起"切分模块，依赖单向无环 |
 | [rethink](rethink/) | 深度复查 | 换视角找遗漏、下钻找深度不足，分诊出修正项与补充项 |
+| [competitive-research](competitive-research/) | 竞品调研 | 拆解竞品/相邻实现/先例尸检，产出比较矩阵与借鉴避坑清单 |
 
 ## 安装
 
