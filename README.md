@@ -22,6 +22,7 @@ Personal Agent Skills
 | [independent-design](independent-design/) | 独立设计交叉验证 | 派互不可见的子代理盲设同一问题，收割收敛/分歧/独有点，综合单一方案 |
 | [design-doc](design-doc/) | 方案落文档 | docs/design 目录规范 + 日期前缀命名 + 状态元数据 + 索引表，方案持久化留档 |
 | [align-understanding](align-understanding/) | 对齐理解 | 术语表+边界探测+实例走查+假设两栏标注，固化理解基线防偏差 |
+| [subagent-sequential-implement](subagent-sequential-implement/) | 依次派子代理实现 | 方案切有序阶段逐个派子代理，阶段验收门+还原点，失败只重做一段 |
 
 ## 安装
 
