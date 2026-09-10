@@ -17,6 +17,9 @@ Personal Agent Skills
 | [rethink](rethink/) | 深度复查 | 换视角找遗漏、下钻找深度不足，分诊出修正项与补充项 |
 | [competitive-research](competitive-research/) | 竞品调研 | 拆解竞品/相邻实现/先例尸检，产出比较矩阵与借鉴避坑清单 |
 | [handoff-implement](handoff-implement/) | 移交实现 | 自足 prompt 交新会话隔离实现，执行汇总后按冻结标准严格验收 |
+| [design-only](design-only/) | 纯设计 | 只产出实现者可直接开工的完整方案，零代码改动，可与移交实现串联 |
+| [execution-summary](execution-summary/) | 执行汇总 | 自足可复制的实现汇报：基线、证据、逐条自检、复验指引，交原会话严格验收 |
+| [independent-design](independent-design/) | 独立设计交叉验证 | 派互不可见的子代理盲设同一问题，收割收敛/分歧/独有点，综合单一方案 |
 
 ## 安装
 
