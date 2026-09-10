@@ -14,6 +14,7 @@ Personal Agent Skills
 | [independent-thinking](independent-thinking/) | 保持独立思考 | 同意基于论证，反对给出证据与替代方案，不迎合 |
 | [critical-thinking](critical-thinking/) | 批判性思维 | 先质疑前提 → 再注明依据地推理 → 后分档交付结论 |
 | [high-cohesion-low-coupling](high-cohesion-low-coupling/) | 高内聚低耦合 | 按"一起变化的放一起"切分模块，依赖单向无环 |
+| [rethink](rethink/) | 深度复查 | 换视角找遗漏、下钻找深度不足，分诊出修正项与补充项 |
 
 ## 安装
 
