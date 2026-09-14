@@ -26,6 +26,7 @@ Personal Agent Skills
 | [subagent-sequential-implement](skills/subagent-sequential-implement/) | 依次派子代理实现 | 方案切有序阶段逐个派子代理，阶段验收门+还原点，失败只重做一段 |
 | [design-doc](skills/design-doc/) | 方案落文档 | docs/design 目录规范 + 日期前缀命名 + 状态元数据 + 索引表，方案持久化留档 |
 | [mechanism-gap](skills/mechanism-gap/) | 机制缺口排查 | 回溯问题逃逸路径，判定个案还是一类，从最早可拦截层补齐机制而非打补丁 |
+| [architecture-review](skills/architecture-review/) | 架构评审 | 画像切模块，分模块派子代理多维度评审，横切单列，汇总复核后出分级报告 |
 
 ## 安装
 
