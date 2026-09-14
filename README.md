@@ -27,7 +27,8 @@ Personal Agent Skills
 | [design-doc](skills/design-doc/) | 方案落文档 | docs/design 目录规范 + 日期前缀命名 + 状态元数据 + 索引表，方案持久化留档 |
 | [mechanism-gap](skills/mechanism-gap/) | 机制缺口排查 | 回溯问题逃逸路径，判定个案还是一类，从最早可拦截层补齐机制而非打补丁 |
 | [architecture-review](skills/architecture-review/) | 架构评审 | 画像切模块，分模块派子代理多维度评审，横切单列，汇总复核后出分级报告 |
-| [commit-push](skills/commit-push/) | 提交推送 | 只提交本会话足迹，并行改动判定影响后交用户裁决，按路径暂存禁 add . |
+| [commit-push](skills/commit-push/) | 提交推送 | 只提交本会话足迹，并行改动交用户裁决，按路径暂存，message 按用户语言规范 |
+| [pull-first](skills/pull-first/) | 干活前先拉取 | fetch 对齐远程，fast-forward 优先；拉到更新核对影响，有影响交用户决策 |
 
 ## 安装
 
